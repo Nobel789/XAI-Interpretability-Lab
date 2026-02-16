@@ -14,3 +14,10 @@ Counterfactuals: Simulating "what-if" scenarios by finding the smallest change t
 GAN Dissection: Techniques for inspecting layers and interpreting the function of specific units within Generative Adversarial Networks.
 
 Embedding Visualization: Dimensionality reduction using PCA, t-SNE, and UMAP to make high-dimensional latent spaces meaningful and interpretable.
+
+### ⚖️ Responsible AI & Fairness
+* **Bias Auditing**: A comprehensive framework using **Fairlearn** to detect representation bias in training data and disparaties in model performance across sensitive groups (e.g., Age, Gender).
+
+### 📉 Transparent Modeling
+* **Regression Interpretability**: Visualizing the impact of **Lasso** and **Ridge** regularization paths to understand feature selection stability.
+* **RuleFit**: Implementing hybrid models that combine linear regression with decision rules to capture non-linear interactions while remaining human-readable.
