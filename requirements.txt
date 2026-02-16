@@ -7,3 +7,7 @@ umap-learn
 torch
 torchvision
 ninja
+fairlearn
+rulefit
+seaborn
+scipy
